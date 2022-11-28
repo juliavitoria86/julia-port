@@ -1,7 +1,27 @@
 .card{
 background-color: white;
 
+width: 35vw;
+height: 94vh;
+border-radius: 10px;
+
 }
 body{
     background-color: darkcyan;
+
+}
+
+.foto{
+    background-image: url('pfem.png');
+    background-repeat: no-repeat;
+    width: 35vw;
+    height: 60vh;
+    border-radius: 10px 10px 0 0;
+   
+}
+
+.logo{
+     width: 8vw;
+     height: 15vh;
+     border-radius: 35px;
 }
